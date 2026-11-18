@@ -1,0 +1,6 @@
+{
+  "name": "PinJSON",
+  "description": "Extract and download Pinterest videos from pin links and raw JSON payloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
